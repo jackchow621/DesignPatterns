@@ -5,7 +5,7 @@ public class Test{
 		Product product = singleton.create();
 		product.use();
 		
-		product = singleton.create();
+		product = singleton.create2();
 		product.use();
 		
 	}

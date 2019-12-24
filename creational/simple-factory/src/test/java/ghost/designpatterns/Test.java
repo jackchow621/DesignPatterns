@@ -1,6 +1,12 @@
 package ghost.designpatterns;
 
-
+/**
+ * @Author jackchow
+ * @Description 简单工厂模式
+ * @Date 15:43 2019-12-24
+ * @Param
+ * @return
+ **/
 public class Test {
 
 	/**
